@@ -1,9 +1,10 @@
 ### Olá! Eu sou o Lucas Maciel
 
 - 💼 Em busca de oportunidade para atuação
+- 🚧 Portfólio em construção
 - 👓 Estudando Python
 - 👓 Estudando SAP
-- 🎓 Cursando Desenvolvimento de Software Multiplataforma
+- 🎓 Cursando Superior em Desenvolvimento de Software Multiplataforma
 - 📫 Contate-me no e-mail: lucas.m.maciel18@gmail.com
 - 😄 Pronomes: ele/dele
 -  📱 WhatsApp: (16) 9 9387-3202
