@@ -10,6 +10,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://t.ctcdn.com.br/70m_q7O3oA-fw03PbR423sFhuik=/400x400/smart/i490105.jpeg">
   </div>
 
   <div> 
