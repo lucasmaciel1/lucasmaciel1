@@ -2,6 +2,7 @@
 
 - 💼 Em busca de oportunidade para atuação
 - 👓 Estudando Python
+- 👓 Estudando SAP
 - 🎓 Cursando Desenvolvimento de Software Multiplataforma
 - 📫 Contate-me no e-mail: lucas.m.maciel18@gmail.com
 - 😄 Pronomes: ele/dele
