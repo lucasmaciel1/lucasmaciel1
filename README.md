@@ -4,14 +4,12 @@
 - 💼 Em busca de oportunidade para atuação
 - 🚧 Portfólio em construção
 - 👓 Estudando Python
-- 👓 Estudando SAP-ABAP
 - 📫 Contate-me no e-mail: lucas.m.maciel18@gmail.com
 - 😄 Pronomes: ele/dele
 -  📱 WhatsApp: (16) 9 9387-3202
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/2560px-SAP_2011_logo.svg.png">
   </div>
 
   <div> 
